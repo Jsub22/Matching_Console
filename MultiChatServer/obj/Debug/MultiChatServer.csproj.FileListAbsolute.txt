@@ -1,0 +1,236 @@
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver12\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver20\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver23\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver25\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatServer\obj\Debug\MultiChatServer.pdb
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\bin\Debug\MultiChatServer.exe
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\bin\Debug\MultiChatServer.pdb
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\bin\Debug\MySql.Data.dll
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.exe
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatServer\obj\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\bin\Debug\MultiChatServer.exe.config
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\bin\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\bin\Debug\MultiChatServer.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\bin\Debug\MySql.Data.dll
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.Server1.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.csproj.CopyComplete
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatServer\obj\Debug\MultiChatServer.pdb

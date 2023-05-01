@@ -1,0 +1,277 @@
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver13\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver15\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver16\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver19\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver23 (1)\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver24\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver26\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user\Documents\카카오톡 받은 파일\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user\Desktop\mulitchat_ver27\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver29\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.csprojAssemblyReference.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\82107\Documents\카카오톡 받은 파일\mulitchat_ver30-랜덤채팅+채팅방1\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver31-랜덤채팅+채팅방\MultiChatClient\obj\Debug\MultiChatClient.RoomMaker.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\bin\Debug\MultiChatClient.exe
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\bin\Debug\MultiChatClient.pdb
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.RoomMaker.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.exe
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.pdb
+D:\Settings\HANA\Desktop\학교 공부\(2021-2)\소프트웨어 개발환경\채팅 팀플\mulitchat_ver33_방만들기1st\MultiChatClient\obj\Debug\MultiChatClient.ViewImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\bin\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\bin\Debug\MultiChatClient.pdb
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.ChatForm.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.Home.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.ID.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.Login.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.Password.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.Profile.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.ProfileImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.Properties.Resources.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.RandomMatching.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.RoomMaker.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.SignUp.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.ViewImage.resources
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.exe
+C:\Users\user1\Desktop\소프트웨어 개발환경\mulitchat_ver31-랜덤채팅+채팅방\mulitchat_ver35\mulitchat_ver34\MultiChatClient\obj\Debug\MultiChatClient.pdb
